@@ -81,6 +81,8 @@ src/
 - **Services**: Browse and book beauty services
 - **Stylists**: View stylist profiles and ratings
 - **Booking**: Schedule appointments
+## How to access the app
+visit us on https://ghbeautyhub.netlify.app/ 
 - **Dashboard**: User-specific dashboards
 - **Authentication**: Login/register system
 
